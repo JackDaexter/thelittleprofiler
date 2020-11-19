@@ -1,0 +1,12 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$_graphic_8h.html#a5fd2ef708402a0f0d0ba7c0b62eed5c2" title="Display all the differents function on the home screen and the loaded file. " alt="" coords="104,5,252,32"/>
+<area shape="rect" id="node3" href="$_option_8h.html#a4389a4a5ebec1a323c08fe8eb9ff1078" title="choice_menu_user" alt="" coords="113,56,243,83"/>
+<area shape="rect" id="node4" href="$_profiler_8h.html#ad1ce62e6463e1ecb9f7e11a7336101c9" title="This function course the file *in,add the differents function in it in a Tree allocate the place nece..." alt="" coords="134,107,222,133"/>
+<area shape="rect" id="node5" href="$_tree_8h.html#a8a3501c9b595ccde75782ae6843778e1" title="Use like initializer towards another recursive file who course recursively the tree to display all fu..." alt="" coords="133,157,223,184"/>
+<area shape="rect" id="node6" href="$_option_8h.html#a62e0150e666100608aa48beb50bf9ddc" title="get_back" alt="" coords="141,208,215,235"/>
+<area shape="rect" id="node8" href="$_profiler_8h.html#aa94ba3ddeb4f69bbd358e92fac005ea1" title="Sort all differents function present in Profiler structure in function of the user choice and display..." alt="" coords="125,259,231,285"/>
+<area shape="rect" id="node11" href="$_tree_8h.html#a360fe10fc8786f2ea81fe7b9785815fe" title="Freeing of the allocate tree properly. " alt="" coords="131,309,225,336"/>
+<area shape="rect" id="node7" href="$_graphic_8h.html#ab3496a19c9746bf2dee589eeddba8182" title="Display the back button usefull to go back on menu. " alt="" coords="316,208,457,235"/>
+<area shape="rect" id="node9" href="$_graphic_8h.html#a661c0321000768f98b5aae40bc68a59d" title="Display the differents button usefull for the option page. " alt="" coords="307,259,466,285"/>
+<area shape="rect" id="node10" href="$_graphic_8h.html#abeaec59feeeeb8066aee301b1c92cc66" title="Display all other graphic information necessary : titles and design. " alt="" coords="300,309,473,336"/>
+</map>

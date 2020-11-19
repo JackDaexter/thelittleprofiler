@@ -1,0 +1,5 @@
+<map id="time_per_call" name="time_per_call">
+<area shape="rect" id="node2" href="$_profiler_8c.html#a8b674ff998be015146dacee4a4cbae92" title="Send back the total time of function execution. " alt="" coords="152,5,277,32"/>
+<area shape="rect" id="node4" href="$_profiler_8c.html#ae969187e239f6b993041786de447f930" title="Send back the total call number of each function in the Tree. " alt="" coords="169,56,261,83"/>
+<area shape="rect" id="node3" href="$_tree_8h.html#a26fdcc01669916bebc5b6349c173b420" title="duree_function" alt="" coords="325,5,432,32"/>
+</map>

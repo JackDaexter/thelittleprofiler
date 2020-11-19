@@ -1,0 +1,9 @@
+##############	How to insert profiling tag ######################
+
+There are 3 step : - Put the tag PROFILE at the fisrt line of each function 
+		   - Put the tag return, even in void function, in each function
+                   - For recursive function, register the value in variable instead of return this directly, and put the variable on the return;
+
+##################################################################
+
+Our data has been analyse by the group NGUYEN THAI QUOC THONG 

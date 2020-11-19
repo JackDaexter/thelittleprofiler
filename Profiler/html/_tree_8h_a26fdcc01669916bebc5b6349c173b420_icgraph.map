@@ -1,0 +1,5 @@
+<map id="duree_function" name="duree_function">
+<area shape="rect" id="node2" href="$_profiler_8c.html#a8b674ff998be015146dacee4a4cbae92" title="Send back the total time of function execution. " alt="" coords="160,31,285,57"/>
+<area shape="rect" id="node3" href="$_profiler_8c.html#ad255a122291a45d881cafb1ca5f194c5" title="Send back the average time for each function about all the call. " alt="" coords="333,5,432,32"/>
+<area shape="rect" id="node4" href="$_profiler_8c.html#a9f5bcc4971dcab6d7d3d5227b86dbb40" title="Create simply a profiler with element present in array a. " alt="" coords="480,31,584,57"/>
+</map>
